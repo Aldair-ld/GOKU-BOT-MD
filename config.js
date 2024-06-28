@@ -68,19 +68,19 @@ global.APIKeys = {
 // Otras variables globales
 // ╰─────────────────────────────────────────────╮
 global.id_canal = '120363274577422945@newsletter' //ID CANAL REM = 120363299269381797@newsletter
-global.name_canal = '𝐑 𝐄 𝐌 - 𝐁 𝐎 𝐓  - 𝐁 𝐘  - 𝐂 𝐔 𝐑 𝐈'
-global.rcanal = 'https://whatsapp.com/channel/0029VaeQcFXEFeXtNMHk0D0n'
-global.canal = 'https://whatsapp.com/channel/0029VaeQcFXEFeXtNMHk0D0n'
-global.botname = 'ＲＥＭ－ＢＯＴ';
+global.name_canal = '𝚄𝚁𝙰𝙱𝙴_𝙼𝙸𝙺𝙾𝚃𝙾 - 𝙱𝙾𝚃'
+global.rcanal = 'https://whatsapp.com/channel/0029VafZvB6J3jv3qCnqNu3x'
+global.canal = 'https://whatsapp.com/channel/0029VafZvB6J3jv3qCnqNu3x'
+global.botname = '𝚄𝚁𝙰𝙱𝙴_𝙼𝙸𝙺𝙾𝚃𝙾 - 𝙱𝙾𝚃';
 global.premium = 'true';
-global.packname = 'ℭ𝔲𝔯𝔦-𝔅𝔬𝔱';
-global.author = '@holabb123';
+global.packname = '𝚄𝚁𝙰𝙱𝙴_𝙼𝙸𝙺𝙾𝚃𝙾 - 𝙱𝙾𝚃';
+global.author = '@aldair';
 global.menuvid = 'https://i.imgur.com/Vun0Liy.mp4';
-global.igfg = '▢ Sigueme en Instagram\nhttps://www.instagram.com/Josecurisoto\n';
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA';
-global.fgsc = 'https://github.com/davidprospero123/REM-CHAM-MD';
-global.fgyt = 'https://youtube.com/@holabb123';
-global.fgpyp = 'https://youtube.com/@holabb123';
+global.igfg = '▢ Sigueme en Instagram\nhttps://www.instagram.com/aldair_dki\n';
+global.dygp = 'https://chat.whatsapp.com/CnN4LfY1LfB5RBbiNWOCct';
+global.fgsc = 'https://github.com/';
+global.fgyt = 'https://youtube.com/';
+global.fgpyp = 'https://youtube.com/@';
 global.fglog = 'https://raw.githubusercontent.com/davidprospero123/REM-CHAM-MD/main/logo.jpg';
 global.thumb = fs.readFileSync('./Assets/Remlogo.jpg');
 global.wait = '*⌛ _𝘾𝘼𝙍𝙂𝘼𝙉𝘿𝙊..._*\n*▰▰▰▱▱▱▱▱*';
